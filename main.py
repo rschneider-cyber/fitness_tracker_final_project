@@ -5,6 +5,8 @@ from bakery import assert_equal
 set_site_information(
     author="Ryan Schneider",
     description="A personal fitness tracker to log workouts and monitor daily goals.",
+    sources=["Course lecture slides", "Drafter documentation", "LLM Assistant"],
+    planning=["Week 10 Brainstorming Worksheet", "Week 11 Design Worksheet"],
     links=["github.com/rschneider-cyber/fitness_tracker_final_project"]
 )
 
